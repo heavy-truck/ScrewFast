@@ -248,8 +248,8 @@ You can pass values to props directly in the page files for components used acro
 />
 
 <ClientsSection
-  title="Trusted by Industry Leaders"
-  subTitle="Experience the reliability chosen by industry giants."
+  title="Con la confianza de los líderes de la industria"
+  subTitle="Experimente la confiabilidad elegida por los gigantes de la industria."
 />
 ```
 
